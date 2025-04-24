@@ -1,2 +1,2 @@
 # computer graphics
-made to keep computer gaphics assignments
+made to keep computer graphics assignments
